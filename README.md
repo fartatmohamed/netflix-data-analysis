@@ -65,36 +65,6 @@ Netflix-Data-Analysis/
 └── README.md
 ```
 
-## ⚙️ Installation & Usage
-
-**1. Clone the repository**
-
-```bash
-git clone https://github.com/USERNAME/Netflix-Data-Analysis.git
-```
-
-**2. Navigate to the project folder**
-
-```bash
-cd Netflix-Data-Analysis
-```
-
-**3. Install the required libraries**
-
-```bash
-pip install pandas matplotlib seaborn jupyter
-```
-
-**4. Launch Jupyter Notebook**
-
-```bash
-jupyter notebook
-```
-
-**5. Open `Netflix.ipynb` and run the cells.**
-
-Make sure `netflix_titles.csv` is in the same directory as the notebook.
-
 ## 📚 Dataset
 
 The project uses the Netflix Movies and TV Shows dataset (`netflix_titles.csv`), containing information such as:
